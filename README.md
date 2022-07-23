@@ -56,5 +56,6 @@ NOTE: If you want to terminate the app, you have to logout and close the login v
 
 NOTE: If you terminate and run again the app, it will read data from the files to use updated data in execution.
 
+NOTE: You must add the jar in the files to classpath to run app.
 
 
